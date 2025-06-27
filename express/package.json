@@ -1,0 +1,21 @@
+{
+  "name": "typeorm-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.3",
+    "typeorm": "^0.3.25"
+  },
+  "devDependencies": {
+    "dotenv": "^16.6.0",
+    "nodemon": "^3.1.10"
+  }
+}
